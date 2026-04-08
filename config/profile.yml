@@ -1,0 +1,67 @@
+candidate:
+  full_name: "Kismat Kunwar"
+  email: "kismatkunwar89@gmail.com"
+  phone: ""                          # Add your phone number
+  location: "West Haven, CT"
+  linkedin: "linkedin.com/in/kunwarkismat"
+  portfolio_url: ""                  # Add if you have one
+  github: "github.com/kismatkunwar89"
+  twitter: ""
+
+target_roles:
+  primary:
+    - "SOC Analyst (Tier 1/2)"
+    - "Security Operations Analyst"
+    - "Cybersecurity Analyst"
+    - "Incident Response Analyst"
+  archetypes:
+    - name: "SOC / Blue Team Analyst"
+      level: "Entry/Junior"
+      fit: "primary"
+    - name: "Incident Response Analyst"
+      level: "Entry/Junior"
+      fit: "primary"
+    - name: "Threat Intelligence Analyst"
+      level: "Entry/Junior"
+      fit: "secondary"
+    - name: "Security Engineer"
+      level: "Entry/Junior"
+      fit: "secondary"
+    - name: "Penetration Tester / Red Team"
+      level: "Entry/Junior"
+      fit: "adjacent"
+
+narrative:
+  headline: "Graduate cybersecurity student specializing in SOC operations, EDR/SIEM, and incident response"
+  exit_story: "Academic researcher and former security intern pivoting to full-time blue team roles — hands-on with CrowdStrike, ELK, and live threat triage from day one."
+  superpowers:
+    - "SIEM/EDR alert triage and tuning (CrowdStrike Falcon, ELK Stack)"
+    - "Incident response: containment, escalation, and root cause analysis"
+    - "Python/Bash automation for security workflows and reporting"
+    - "Network fundamentals: VLANs, OSPF, firewalls, Wireshark/Nmap analysis"
+    - "Research-backed communication — first-author ICDF2C publication"
+  proof_points:
+    - name: "VectorProbe"
+      url: "https://github.com/kismatkunwar89/VectorProbe"
+      hero_metric: "Automated Nmap + Searchsploit + enum4linux-ng recon pipeline"
+    - name: "Threat Intelligence Platform"
+      url: "https://github.com/kismatkunwar89/threat-intel-platform"
+      hero_metric: "Aggregates AbuseIPDB, OTX, VirusTotal, GreyNoise with MITRE ATT&CK mapping"
+    - name: "Flamingo Neck Networks Pentest"
+      url: ""
+      hero_metric: "Full AD compromise via Pass-the-Hash; 9 findings (2 Critical), formal report"
+    - name: "ICDF2C Research Paper"
+      url: ""
+      hero_metric: "First-author publication on LLM-driven digital forensic artifact mapping"
+
+compensation:
+  target_range: "$65K-90K"
+  currency: "USD"
+  minimum: "$55K"
+  location_flexibility: "Remote or hybrid in CT/NY/NJ area preferred; open to relocation for strong opportunity"
+
+location:
+  country: "United States"
+  city: "West Haven, CT"
+  timezone: "EST"
+  visa_status: "Add your visa/work authorization status here"
