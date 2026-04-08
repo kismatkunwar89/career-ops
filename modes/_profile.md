@@ -38,10 +38,22 @@ I want roles where I'm actually in the fight — monitoring alerts, investigatin
 
 ---
 
+## Work Authorization (International Student — F-1)
+
+- **Current status:** F-1 student visa, enrolled in STEM MS program at University of New Haven
+- **CPT:** Eligible now for internship/part-time roles during studies
+- **OPT:** Eligible for 12 months post-graduation + 24-month STEM OPT extension = up to 3 years total work authorization without sponsorship
+- **H-1B:** Will require sponsorship after OPT period
+- **What to say in applications:** "Authorized to work in the US. Will require H-1B sponsorship in the future."
+- **Scoring rule:** If a JD says "no sponsorship now or in the future" — score this as a hard red flag (blocker). If it says "sponsorship available" or is silent — proceed normally. Flag companies known to sponsor (large tech, MSSPs, defense contractors) as higher value.
+- **Companies that commonly sponsor F-1/H-1B in cybersecurity:** Microsoft, CrowdStrike, Palo Alto Networks, IBM, Deloitte, KPMG, Booz Allen Hamilton, Leidos, Splunk, Mandiant/Google
+- **Avoid flagging OPT as a negative in CVs/cover letters** — lead with skills and authorization, not the asterisk.
+
 ## Things I Want to Avoid
 
 - Pure IT helpdesk roles disguised as cybersecurity
-- Roles requiring active Top Secret clearance (I don't have one)
+- Roles explicitly stating "no sponsorship now or in the future"
+- Roles requiring active Top Secret clearance (I don't have one — clearance requires citizenship in most cases)
 - Roles requiring 5+ years of experience when I have ~1 year internship
 - Roles outside EST timezone for remote (flexibility: ±2 hours)
 
